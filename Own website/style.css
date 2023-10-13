@@ -1,0 +1,70 @@
+#myCarousel {
+    margin-top: 20px;
+}
+
+.carousel-item{
+    height: 100%;
+}
+.carousel-inner{
+    height: 100vh;
+}
+.carousel-caption {
+  font-size: 40px;
+  color: white;
+  font-family: sans-serif;
+  margin-bottom: 15%;
+}
+.marketing .row {
+    margin-top: 5%;
+    margin-left: 13%;
+    margin-bottom: 5%;
+}
+.col-md-7{
+    height: 10%;
+}
+.rounded-circle {
+    text-align: center;
+    margin-top: 50px;
+  }
+
+.card.shadow-sm > img {
+     height: 200px;
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 120px;
+}
+.card.card-cover{
+    width: 400px;
+    height: 50px;
+}
+footer {
+    background-color:#212529;
+    color: white;
+    width: 100%;
+    padding-left: 50px;
+  }
+footer a {
+  color: #fff;
+}
+
+footer .row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.list-unstyled.d-flex{
+    margin-left: 50px;
+}
+.nav.flex-column a{
+    color: white;
+}
+.buttom{
+    width: 60%;
+    
+}
+.btn.btn-primary{
+    margin-top: 15px;
+}
